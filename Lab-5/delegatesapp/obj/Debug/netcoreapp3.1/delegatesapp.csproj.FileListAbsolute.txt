@@ -1,0 +1,13 @@
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\bin\Debug\netcoreapp3.1\delegatesapp.exe
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\bin\Debug\netcoreapp3.1\delegatesapp.deps.json
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\bin\Debug\netcoreapp3.1\delegatesapp.runtimeconfig.json
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\bin\Debug\netcoreapp3.1\delegatesapp.runtimeconfig.dev.json
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\bin\Debug\netcoreapp3.1\delegatesapp.dll
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\bin\Debug\netcoreapp3.1\delegatesapp.pdb
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\obj\Debug\netcoreapp3.1\delegatesapp.csprojAssemblyReference.cache
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\obj\Debug\netcoreapp3.1\delegatesapp.AssemblyInfoInputs.cache
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\obj\Debug\netcoreapp3.1\delegatesapp.AssemblyInfo.cs
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\obj\Debug\netcoreapp3.1\delegatesapp.csproj.CoreCompileInputs.cache
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\obj\Debug\netcoreapp3.1\delegatesapp.dll
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\obj\Debug\netcoreapp3.1\delegatesapp.pdb
+C:\Users\arpit.pandey\source\repos\delegatesapp\delegatesapp\obj\Debug\netcoreapp3.1\delegatesapp.genruntimeconfig.cache
