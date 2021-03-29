@@ -1,0 +1,12 @@
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\obj\Debug\netcoreapp3.1\GenericClassAndAction.AssemblyInfoInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\obj\Debug\netcoreapp3.1\GenericClassAndAction.AssemblyInfo.cs
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\obj\Debug\netcoreapp3.1\GenericClassAndAction.csproj.CoreCompileInputs.cache
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\bin\Debug\netcoreapp3.1\GenericClassAndAction.exe
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\bin\Debug\netcoreapp3.1\GenericClassAndAction.deps.json
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\bin\Debug\netcoreapp3.1\GenericClassAndAction.runtimeconfig.json
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\bin\Debug\netcoreapp3.1\GenericClassAndAction.runtimeconfig.dev.json
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\bin\Debug\netcoreapp3.1\GenericClassAndAction.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\bin\Debug\netcoreapp3.1\GenericClassAndAction.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\obj\Debug\netcoreapp3.1\GenericClassAndAction.dll
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\obj\Debug\netcoreapp3.1\GenericClassAndAction.pdb
+C:\New folder (2)\Training d\C-Sharp\Lab 18\GenericClassAndAction\GenericClassAndAction\obj\Debug\netcoreapp3.1\GenericClassAndAction.genruntimeconfig.cache
