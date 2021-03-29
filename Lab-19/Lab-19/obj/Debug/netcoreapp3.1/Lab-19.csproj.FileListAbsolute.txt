@@ -1,0 +1,13 @@
+C:\training\Lab-19\Lab-19\obj\Debug\netcoreapp3.1\Lab-19.csprojAssemblyReference.cache
+C:\training\Lab-19\Lab-19\obj\Debug\netcoreapp3.1\Lab-19.AssemblyInfoInputs.cache
+C:\training\Lab-19\Lab-19\obj\Debug\netcoreapp3.1\Lab-19.AssemblyInfo.cs
+C:\training\Lab-19\Lab-19\obj\Debug\netcoreapp3.1\Lab-19.csproj.CoreCompileInputs.cache
+C:\training\Lab-19\Lab-19\bin\Debug\netcoreapp3.1\Lab-19.exe
+C:\training\Lab-19\Lab-19\bin\Debug\netcoreapp3.1\Lab-19.deps.json
+C:\training\Lab-19\Lab-19\bin\Debug\netcoreapp3.1\Lab-19.runtimeconfig.json
+C:\training\Lab-19\Lab-19\bin\Debug\netcoreapp3.1\Lab-19.runtimeconfig.dev.json
+C:\training\Lab-19\Lab-19\bin\Debug\netcoreapp3.1\Lab-19.dll
+C:\training\Lab-19\Lab-19\bin\Debug\netcoreapp3.1\Lab-19.pdb
+C:\training\Lab-19\Lab-19\obj\Debug\netcoreapp3.1\Lab-19.dll
+C:\training\Lab-19\Lab-19\obj\Debug\netcoreapp3.1\Lab-19.pdb
+C:\training\Lab-19\Lab-19\obj\Debug\netcoreapp3.1\Lab-19.genruntimeconfig.cache
