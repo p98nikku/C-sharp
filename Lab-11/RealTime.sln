@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTime", "RealTime\RealTime.csproj", "{14E26D60-7AF7-44DF-AE12-3122F3492EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E26D60-7AF7-44DF-AE12-3122F3492EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E26D60-7AF7-44DF-AE12-3122F3492EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E26D60-7AF7-44DF-AE12-3122F3492EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E26D60-7AF7-44DF-AE12-3122F3492EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C42EECC-6B44-4B6C-9D60-7800500509AB}
+	EndGlobalSection
+EndGlobal

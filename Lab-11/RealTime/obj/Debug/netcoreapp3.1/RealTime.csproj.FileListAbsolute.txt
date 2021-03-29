@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\bin\Debug\netcoreapp3.1\RealTime.exe
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\bin\Debug\netcoreapp3.1\RealTime.deps.json
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\bin\Debug\netcoreapp3.1\RealTime.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\bin\Debug\netcoreapp3.1\RealTime.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\bin\Debug\netcoreapp3.1\RealTime.dll
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\bin\Debug\netcoreapp3.1\RealTime.pdb
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\obj\Debug\netcoreapp3.1\RealTime.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\obj\Debug\netcoreapp3.1\RealTime.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\obj\Debug\netcoreapp3.1\RealTime.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\obj\Debug\netcoreapp3.1\RealTime.dll
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\obj\Debug\netcoreapp3.1\RealTime.pdb
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\obj\Debug\netcoreapp3.1\RealTime.genruntimeconfig.cache
+C:\Users\S S INFOTECH\source\repos\RealTime\RealTime\obj\Debug\netcoreapp3.1\RealTime.csprojAssemblyReference.cache
