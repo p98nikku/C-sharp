@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="calculatorlib">
+      <HintPath>..\..\calculatorlib\calculatorlib\obj\Debug\netcoreapp3.1\calculatorlib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

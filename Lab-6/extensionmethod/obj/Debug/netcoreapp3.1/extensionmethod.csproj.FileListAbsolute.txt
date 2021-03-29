@@ -1,0 +1,12 @@
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\obj\Debug\netcoreapp3.1\extensionmethod.AssemblyInfoInputs.cache
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\obj\Debug\netcoreapp3.1\extensionmethod.AssemblyInfo.cs
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\obj\Debug\netcoreapp3.1\extensionmethod.csproj.CoreCompileInputs.cache
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\bin\Debug\netcoreapp3.1\extensionmethod.deps.json
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\bin\Debug\netcoreapp3.1\extensionmethod.dll
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\bin\Debug\netcoreapp3.1\extensionmethod.pdb
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\bin\Debug\netcoreapp3.1\calculatorlib.dll
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\bin\Debug\netcoreapp3.1\calculatorlib.pdb
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\obj\Debug\netcoreapp3.1\extensionmethod.csproj.CopyComplete
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\obj\Debug\netcoreapp3.1\extensionmethod.dll
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\obj\Debug\netcoreapp3.1\extensionmethod.pdb
+C:\Users\arpit.pandey\source\repos\extensionmethod\extensionmethod\obj\Debug\netcoreapp3.1\extensionmethod.csprojAssemblyReference.cache
