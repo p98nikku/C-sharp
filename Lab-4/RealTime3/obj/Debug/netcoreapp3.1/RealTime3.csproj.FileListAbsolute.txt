@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\bin\Debug\netcoreapp3.1\RealTime3.exe
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\bin\Debug\netcoreapp3.1\RealTime3.deps.json
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\bin\Debug\netcoreapp3.1\RealTime3.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\bin\Debug\netcoreapp3.1\RealTime3.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\bin\Debug\netcoreapp3.1\RealTime3.dll
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\bin\Debug\netcoreapp3.1\RealTime3.pdb
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\obj\Debug\netcoreapp3.1\RealTime3.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\obj\Debug\netcoreapp3.1\RealTime3.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\obj\Debug\netcoreapp3.1\RealTime3.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\obj\Debug\netcoreapp3.1\RealTime3.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\obj\Debug\netcoreapp3.1\RealTime3.dll
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\obj\Debug\netcoreapp3.1\RealTime3.pdb
+C:\Users\S S INFOTECH\source\repos\RealTime3\RealTime3\obj\Debug\netcoreapp3.1\RealTime3.genruntimeconfig.cache
