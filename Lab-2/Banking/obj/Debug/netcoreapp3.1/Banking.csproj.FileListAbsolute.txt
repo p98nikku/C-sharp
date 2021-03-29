@@ -1,0 +1,16 @@
+C:\Traning\Day5\Banking\bin\Debug\netcoreapp3.1\Banking.exe
+C:\Traning\Day5\Banking\bin\Debug\netcoreapp3.1\Banking.deps.json
+C:\Traning\Day5\Banking\bin\Debug\netcoreapp3.1\Banking.runtimeconfig.json
+C:\Traning\Day5\Banking\bin\Debug\netcoreapp3.1\Banking.runtimeconfig.dev.json
+C:\Traning\Day5\Banking\bin\Debug\netcoreapp3.1\Banking.dll
+C:\Traning\Day5\Banking\bin\Debug\netcoreapp3.1\Banking.pdb
+C:\Traning\Day5\Banking\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Traning\Day5\Banking\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Traning\Day5\Banking\obj\Debug\netcoreapp3.1\Banking.csprojAssemblyReference.cache
+C:\Traning\Day5\Banking\obj\Debug\netcoreapp3.1\Banking.AssemblyInfoInputs.cache
+C:\Traning\Day5\Banking\obj\Debug\netcoreapp3.1\Banking.AssemblyInfo.cs
+C:\Traning\Day5\Banking\obj\Debug\netcoreapp3.1\Banking.csproj.CoreCompileInputs.cache
+C:\Traning\Day5\Banking\obj\Debug\netcoreapp3.1\Banking.csproj.CopyComplete
+C:\Traning\Day5\Banking\obj\Debug\netcoreapp3.1\Banking.dll
+C:\Traning\Day5\Banking\obj\Debug\netcoreapp3.1\Banking.pdb
+C:\Traning\Day5\Banking\obj\Debug\netcoreapp3.1\Banking.genruntimeconfig.cache
