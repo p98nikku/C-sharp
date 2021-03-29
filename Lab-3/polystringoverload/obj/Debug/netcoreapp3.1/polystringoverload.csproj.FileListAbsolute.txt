@@ -1,0 +1,13 @@
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\obj\Debug\netcoreapp3.1\polystringoverload.AssemblyInfoInputs.cache
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\obj\Debug\netcoreapp3.1\polystringoverload.AssemblyInfo.cs
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\obj\Debug\netcoreapp3.1\polystringoverload.csproj.CoreCompileInputs.cache
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\bin\Debug\netcoreapp3.1\polystringoverload.exe
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\bin\Debug\netcoreapp3.1\polystringoverload.deps.json
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\bin\Debug\netcoreapp3.1\polystringoverload.runtimeconfig.json
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\bin\Debug\netcoreapp3.1\polystringoverload.runtimeconfig.dev.json
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\bin\Debug\netcoreapp3.1\polystringoverload.dll
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\bin\Debug\netcoreapp3.1\polystringoverload.pdb
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\obj\Debug\netcoreapp3.1\polystringoverload.dll
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\obj\Debug\netcoreapp3.1\polystringoverload.pdb
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\obj\Debug\netcoreapp3.1\polystringoverload.genruntimeconfig.cache
+C:\Users\arpit.pandey\source\repos\polystringoverload\polystringoverload\obj\Debug\netcoreapp3.1\polystringoverload.csprojAssemblyReference.cache
