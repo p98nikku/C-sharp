@@ -1,0 +1,13 @@
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\bin\Debug\netcoreapp3.1\ManagerAgentDelegateExample.exe
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\bin\Debug\netcoreapp3.1\ManagerAgentDelegateExample.deps.json
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\bin\Debug\netcoreapp3.1\ManagerAgentDelegateExample.runtimeconfig.json
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\bin\Debug\netcoreapp3.1\ManagerAgentDelegateExample.runtimeconfig.dev.json
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\bin\Debug\netcoreapp3.1\ManagerAgentDelegateExample.dll
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\bin\Debug\netcoreapp3.1\ManagerAgentDelegateExample.pdb
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\obj\Debug\netcoreapp3.1\ManagerAgentDelegateExample.csprojAssemblyReference.cache
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\obj\Debug\netcoreapp3.1\ManagerAgentDelegateExample.AssemblyInfoInputs.cache
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\obj\Debug\netcoreapp3.1\ManagerAgentDelegateExample.AssemblyInfo.cs
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\obj\Debug\netcoreapp3.1\ManagerAgentDelegateExample.csproj.CoreCompileInputs.cache
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\obj\Debug\netcoreapp3.1\ManagerAgentDelegateExample.dll
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\obj\Debug\netcoreapp3.1\ManagerAgentDelegateExample.pdb
+C:\Training\Day10 25-03-2021\ManagerAgentDelegateExample\ManagerAgentDelegateExample\obj\Debug\netcoreapp3.1\ManagerAgentDelegateExample.genruntimeconfig.cache
