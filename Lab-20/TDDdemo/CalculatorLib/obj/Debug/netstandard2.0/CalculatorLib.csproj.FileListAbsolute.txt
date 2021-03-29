@@ -1,0 +1,9 @@
+C:\Users\S S INFOTECH\source\repos\TDDdemo\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.deps.json
+C:\Users\S S INFOTECH\source\repos\TDDdemo\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.dll
+C:\Users\S S INFOTECH\source\repos\TDDdemo\CalculatorLib\bin\Debug\netstandard2.0\CalculatorLib.pdb
+C:\Users\S S INFOTECH\source\repos\TDDdemo\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\TDDdemo\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\TDDdemo\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\TDDdemo\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.dll
+C:\Users\S S INFOTECH\source\repos\TDDdemo\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.pdb
+C:\Users\S S INFOTECH\source\repos\TDDdemo\CalculatorLib\obj\Debug\netstandard2.0\CalculatorLib.csprojAssemblyReference.cache
