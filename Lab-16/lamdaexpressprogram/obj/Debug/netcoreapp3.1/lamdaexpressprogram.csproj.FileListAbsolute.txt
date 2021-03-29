@@ -1,0 +1,13 @@
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\bin\Debug\netcoreapp3.1\lamdaexpressprogram.exe
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\bin\Debug\netcoreapp3.1\lamdaexpressprogram.deps.json
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\bin\Debug\netcoreapp3.1\lamdaexpressprogram.runtimeconfig.json
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\bin\Debug\netcoreapp3.1\lamdaexpressprogram.runtimeconfig.dev.json
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\bin\Debug\netcoreapp3.1\lamdaexpressprogram.dll
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\bin\Debug\netcoreapp3.1\lamdaexpressprogram.pdb
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\obj\Debug\netcoreapp3.1\lamdaexpressprogram.csprojAssemblyReference.cache
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\obj\Debug\netcoreapp3.1\lamdaexpressprogram.AssemblyInfoInputs.cache
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\obj\Debug\netcoreapp3.1\lamdaexpressprogram.AssemblyInfo.cs
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\obj\Debug\netcoreapp3.1\lamdaexpressprogram.csproj.CoreCompileInputs.cache
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\obj\Debug\netcoreapp3.1\lamdaexpressprogram.dll
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\obj\Debug\netcoreapp3.1\lamdaexpressprogram.pdb
+C:\Users\arpit.pandey\source\repos\lamdaexpressprogram\lamdaexpressprogram\obj\Debug\netcoreapp3.1\lamdaexpressprogram.genruntimeconfig.cache
