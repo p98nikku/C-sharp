@@ -17,13 +17,12 @@ namespace Lift.Entities
             Floors = floorAndPeopleComposition.Select((floorComposition, floorNumber) =>
             {
                 var floor = new Floor(floorNumber, floorComposition);
-                floor.ButtonPressedForCallingTheLift += this.LiftRequested;//code is unable to go inside this command to request lift
+                floor.ButtonPressedForCallingTheLift += this.LiftRequested;
                 return floor;
             }).ToArray();
 
             Lift = new Lift(liftCapacity);
         }
-        //this code is not final code sir i just want to go through the requirments and did what part i though might be done in order to meet the desired requirments
      
         public void LiftRequested(Direction direction, int floorNumberRequestedOn)
         {
