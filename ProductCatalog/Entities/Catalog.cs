@@ -16,10 +16,13 @@ namespace ProductCatalog.Entities
         }
         public void DisplayCatalog()
         {
+            Console.WriteLine("Category List");
+            Console.WriteLine("Product List");
             Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
+            //Console.WriteLine();
+            var input = Console.ReadLine().ToLower();
+            bool exit=false;
+            while(exit!=true)
         }
     }
 }
