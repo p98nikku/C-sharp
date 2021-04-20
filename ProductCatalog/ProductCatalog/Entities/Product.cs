@@ -11,9 +11,9 @@ namespace ProductCatalog.Entities
         public string Name { get; set; }
         public string Manufacturer { get; set; }
 
-        public string ShortCode { get; set; }
+       // public string ShortCode { get; set; }
 
-        public List<Category> Categories { get; set; }
+        public string ProductCategory { get; set; }
 
         public string Description { get; set; }
 
@@ -23,6 +23,11 @@ namespace ProductCatalog.Entities
         {
             AutoIncrement++;
             Id = AutoIncrement;
+        }
+        public override string ToString()
+        {
+            
+            return $"Product {this.Name} is Manufactured by {this.Manufacturer} is for {this.SellingPrice} rupees.";
         }
     }
 }
