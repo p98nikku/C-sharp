@@ -91,7 +91,7 @@ namespace ProductCatalog.OperationOnEntities
                     case "b":
                         Console.WriteLine("Enter Id : ");
                         int id = Convert.ToInt32(Console.ReadLine());
-                        var findid = categoryList.Single(s => id == s.Id);
+                        var findid = categoryList.Single(single => id == single.Id);
                         categoryList.Remove(findid);
                         OperationOnProduct.ProductList.RemoveAll(finding => finding.ProductCategory == findid.Name);
                         Console.WriteLine("Removed Successfully");
@@ -134,7 +134,7 @@ namespace ProductCatalog.OperationOnEntities
                     case "a":
                         Console.WriteLine("Enter Id To Search");
                         int id = Convert.ToInt32(Console.ReadLine());
-                        var Prod = categoryList.Single(s => id == s.Id);
+                        var Prod = categoryList.Single(single => id == single.Id);
                         Console.WriteLine("\nID : " + Prod.Id);
                         Console.WriteLine("\nName : " + Prod.Name);
                         Console.WriteLine("\nDescription : " + Prod.Description);
@@ -143,7 +143,7 @@ namespace ProductCatalog.OperationOnEntities
                     case "b":
                         Console.WriteLine("Enter Name ");
                         string name = Console.ReadLine();
-                        var findname = categoryList.Single(s => name == s.Name);
+                        var findname = categoryList.Single(single => name == single.Name);
                         Console.WriteLine("Product Id - " + findname.Id + " Name - " + findname.Name + " Description - " + findname.Description);
                         break;
                     case "c":
